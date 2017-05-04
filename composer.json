@@ -1,5 +1,5 @@
 {
-    "name": "vendor/dbframework",
+    "name": "dbm01/dbframework",
     "description": "db Framework",
     "type": "project",
     "require": {
