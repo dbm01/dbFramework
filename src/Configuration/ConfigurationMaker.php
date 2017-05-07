@@ -17,6 +17,6 @@ class ConfigurationMaker {
     //put your code here
     
     public function export() {
-        echo "ok";
+        echo " ok ";
     }
 }
