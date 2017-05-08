@@ -16,7 +16,8 @@
     ],
     "autoload": {
         "psr-0": {
-            "HelloWorld": "src/"
+            "HelloWorld": "src/",
+            "Configuration": "src/"            
         }
     },
     "minimum-stability": "dev"
