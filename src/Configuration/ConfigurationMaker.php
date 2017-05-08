@@ -23,4 +23,7 @@ class ConfigurationMaker {
     public function test() {
         echo "test ok";
     }
+    public function test1() {
+        echo "test ok1";
+    }
 }
