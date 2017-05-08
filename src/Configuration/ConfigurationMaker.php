@@ -19,4 +19,8 @@ class ConfigurationMaker {
     public function export() {
         echo __DIR__;
     }
+    
+    public function test() {
+        echo "test ok";
+    }
 }
