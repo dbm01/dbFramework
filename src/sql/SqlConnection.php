@@ -6,6 +6,7 @@ class SqlConnection {
      
     
   private static $a = "";  
+  private static $B = "";  
     
     
 }
