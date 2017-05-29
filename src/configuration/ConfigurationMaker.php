@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
 
-namespace Configuration;
+namespace configuration;
 
 /**
  * Description of ConfigurationMaker

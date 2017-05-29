@@ -6,6 +6,13 @@ require "Configuration.php";
 use \HelloWorld\SayHello;
 use \Configuration\ConfigurationMaker;
 //use Aura\Sql\ConnectionLocator;
+echo '<br/>';
+echo '<hr/>';
+$z = Configuration::x;
+var_dump($z);
+echo '<hr/>';
+echo '<br/>';
+
 
 echo SayHello::world();
 
