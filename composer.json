@@ -19,6 +19,5 @@
             "HelloWorld": "src/",
             "Configuration": "src/"            
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
