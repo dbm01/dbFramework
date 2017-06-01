@@ -6,7 +6,7 @@
         "mailjet/mailjet-apiv3-php": "^1.1",
         "php": ">=7.0.0",
         "twig/twig": "^2.0",
-        "aura/sql" : "3.0.0@alphas"
+        "aura/sql" : "3.0.0@alpha"
     },
     "authors": [
         {
